@@ -1,11 +1,2 @@
-# GA_excel_project
-This is the Microsoft Excel project I worked on for General Assembly featuring AirBnB. 
-
-## Description
-Within the Excel sheet, you will find the cleaned data, my data cleansing steps, all the data visualizations and pivot charts, statistical findings, and the raw data.
-
-## Prompt
-Should our investor invest in an AirBnB hotel in Washington D.C.? If so, which neighborhood?
-
-## Subprompt
-How much revenue do successful hosts generate?
+# AirBnB
+This is the Microsoft Excel project I worked on for General Assembly featuring AirBnB. Provided a presentation to address whether an investor should invest in an AirBnB hotel in Washington, D.C, and, if so, provided which neighborhood would be the best to invest in based on the top 10 highest revenue earned, highest mean-average, and highest total sum of revenue earned in the area. Within the Excel sheet, you will find the cleaned data, data cleansing steps, all the data visualizations and pivot charts, statistical findings, and the raw data. Based off the data from http://insideairbnb.com/
